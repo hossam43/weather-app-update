@@ -1,10 +1,35 @@
-# Weather-Journal App Project
+# Weather-Journal App Project 🌦
 
 ## Overview
-This project requires you to create an asynchronous web app that uses Web API and user data to dynamically update the UI. 
+
+Create an interactive web app that utilizes asynchronous communication with Web APIs and user data to dynamically update the user interface. This project focuses on building a weather journal application that provides real-time weather information based on user input.
+
+![project Image](./website/Images/finalOutput/finalOut.jpg)
+
+## Features
+
+- **Dynamic UI Updates**: The app dynamically updates the user interface based on the city, time, and current weather conditions ☁.
+
+![data Image](./website/Images/finalOutput/night-cloud.png)
+
+- **Time-Sensitive UI**: Depending on whether it's day or night, the UI adapts to provide a visually appropriate experience. For example, if it's raining at night, the UI will reflect this with corresponding icons and styles 🌫.
+
+![data Image](./website/Images/finalOutput/day-cloud.png)
+
+- **Weather Icons**: The application includes weather icons 🌤
+
+![data Image](./website/Images/finalOutput/day-fog.png)
 
 ## Instructions
-This will require modifying the `server.js` file and the `website/app.js` file. You can see `index.html` for element references, and once you are finished with the project steps, you can use `style.css` to style your application to customized perfection.
 
-## Extras
-If you are interested in testing your code as you go, you can use `tests.js` as a template for writing and running some basic tests for your code.
+Follow the steps outlined in the project to modify the `server.js` and `website/app.js` files. Refer to `index.html` for element references, and once you complete the project steps, use `style.css` to customize the appearance of your application 📅.
+
+![data Image](./website/Images//finalOutput/data.JPG)
+
+## Creadits
+
+Weather app project is the second project in the Professional Front-End Web Development Nanodegree Program provided by Udacity
+
+## Author
+
+Name: Hossam Ayman
